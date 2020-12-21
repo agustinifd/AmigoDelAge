@@ -1,0 +1,35 @@
+[
+    {
+      "imgsrc": "img/e-comerse/0.jpg",
+      "comentario": "Login y registro funcional ademas admite autenticacion por gmail/google/facebook, se realizo con FireBase."
+    },
+    {
+        "imgsrc": "img/e-comerse/1.jpg",
+        "comentario": "Filtros y ordenamientos por nombre y rango."
+    },
+    {
+        "imgsrc": "img/e-comerse/2.jpg",
+        "comentario": "Los datos (JSON) se obtenien del servidor local (node.js)."
+    },
+    {
+        "imgsrc": "img/e-comerse/3.jpg",
+        "comentario": "Se realizo un filtro en tiempo real que oculta/muestra segun el campo search (keypresure)."
+    },
+    {
+        "imgsrc": "img/e-comerse/4.jpg",
+        "comentario": "Se guardan los datos de usuario actualmente solo en localStorage pero ampliable a base de datos."
+    },
+    {
+        "imgsrc": "img/e-comerse/5.jpg",
+        "comentario": "Comprobaciones, cambio de moneda en tiempo real, agregado/quitado de elementos del carrito y checkout"
+    },
+    {
+        "imgsrc": "img/e-comerse/6.jpg",
+        "comentario": "Forma de pago y envio en forma de modal."
+    },
+    {
+        "imgsrc": "img/e-comerse/7.jpg",
+        "comentario": "Codigo del servidor local de node.js con express."
+    }
+]
+
